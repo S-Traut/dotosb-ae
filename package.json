@@ -1,0 +1,16 @@
+{
+  "name": "dotosb-ae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "nodemon index.js -q"
+  },
+  "keywords": [],
+  "author": "S-Traut",
+  "license": "ISC",
+  "dependencies": {
+    "dotosb": "^1.3.2"
+  },
+  "type": "module"
+}
